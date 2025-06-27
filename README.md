@@ -37,6 +37,7 @@ This project was created as a part of a university assignment to reinforce the f
 
 ```bash
 python minesweeper.py
+```
 ## Notes
 Grid size must be at least 10x10.
 
